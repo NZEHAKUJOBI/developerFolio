@@ -379,3 +379,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
+// "scripts": {
+  //   "predeploy": "npm run build",
+  //   "start": "node fetch.js && react-scripts start",
+  //   "build": "react-scripts build",
+  //   "deploy": "gh-pages -b master -d build",
+  //   "test": "react-scripts test",
+  //   "eject": "react-scripts eject",
+  //   "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
+  //   "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
+  // },
