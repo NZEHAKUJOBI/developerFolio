@@ -13,7 +13,7 @@ export default function Footer() {
           {/* {emoji("Made with ❤️ by DeveloperFolio Team")} */}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          By{" "}
+          {" "}
           <a
             href="https://github.com/NzehAkujobi"
             target="_blank"
